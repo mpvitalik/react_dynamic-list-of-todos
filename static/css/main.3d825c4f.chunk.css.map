@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,aAAc,CACd,gBACF,CACA,GACE,cACF","file":"main.3d825c4f.chunk.css","sourcesContent":[".App {\n  margin: 0 auto;\n  max-width: 1024px;\n}\nth {\n  cursor: pointer;\n}\n"]}
